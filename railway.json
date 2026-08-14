@@ -1,5 +1,0 @@
-{
-  "deploy": {
-    "startCommand": "gunicorn sh_checker:app"
-  }
-}
