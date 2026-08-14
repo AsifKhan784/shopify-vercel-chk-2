@@ -1,1 +1,1 @@
-web: python main.py
+web: python sh_checker.py
