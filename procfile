@@ -1,1 +1,1 @@
-web: python sh_checker.py
+web: gunicorn sh_checker:app
